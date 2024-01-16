@@ -1,0 +1,9 @@
+root = true
+
+[*] #serve para todos os arquivos
+indent_style = space #tipo de indentacao 
+indent_style = 2 #tamanho de indentacao 
+end_of_line = lf #formatacao do final da linha
+charset = utf-8 #formatacao dos caracteres
+trim_trailing_whitespace = true #colocar espaco apos simbolos
+insert_final_newline = true #finalizar o arq com uma linha em branco.
